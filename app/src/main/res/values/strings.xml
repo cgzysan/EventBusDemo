@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventBusDemo</string>
+    <string name="go_broadcast">broadcast 实现</string>
+    <string name="go_eventbus">eventbus 实现</string>
+</resources>
